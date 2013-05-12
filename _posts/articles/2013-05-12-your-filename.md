@@ -11,6 +11,6 @@ categories: articles
 
 ---
 
-## A New Test Post
+## GaiaSys & the Evolution of the Planetary OS
 
-This is anohter test post.
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
