@@ -1,13 +1,13 @@
 ---
 published: 
   - true
-  - "false"
+  - "true"
 layout: article
-title: Your Post Title
-abstract: Short summary of your article.
-author_twitter: johndoe
-author: John Doe
-categories: articles
+title: GaiaSys and the Evolution of the Planetary OS
+abstract: The planet is a super computer. We are all connected.
+author_twitter: posneg
+author: Sam Green
+categories: essays
 
 ---
 
