@@ -1,6 +1,6 @@
 ---
 published: 
-  - false
+  - true
   - "false"
 layout: article
 title: Your Post Title
